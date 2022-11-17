@@ -1,1 +1,3 @@
 # HolyC
+
+I was really bored and downloaded TempleOS...
